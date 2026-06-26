@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "agents/odds-monitor",
+    "agents/strategy-engine",
+    "programs/fanatic-alpha",
+]
+resolver = "2"
