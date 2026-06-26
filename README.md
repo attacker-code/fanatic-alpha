@@ -6,7 +6,7 @@
 
 `CMso1JNiDvK23fTo9VK3RMGZah2iQLrAm1LKsR1pHdm1`
 
-[View on Solana Explorer](https://explorer.solana.com/address/CMso1JNiDvK23fTo9VK3RMGZah2iQLrAm1LKsR1pHdm1?cluster=devnet) *(after deploy)*
+[View on Solana Explorer](https://explorer.solana.com/address/CMso1JNiDvK23fTo9VK3RMGZah2iQLrAm1LKsR1pHdm1?cluster=devnet)
 
 ## What It Does
 
